@@ -1,12 +1,12 @@
 # Hello, I'm Ramiro Luiz Nunes 👋
 
-### About Me
+### About Me 🤖
 
 💻 I'm a professional passionate about technology and innovation, with extensive experience in software development, industrial automation, and DevOps practices. I always seek new challenges and opportunities to apply my skills and contribute to innovative and high-impact projects. I am currently deepening and perfecting my knowledge in the areas of artificial intelligence, data science, and systems architecture.
 
 ---
 
-### ⚡ Technologies
+### Technologies ⚡
 These are some of the technologies and tools that I work with:
 
 **Backend:**
@@ -56,18 +56,21 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-### Projects
+### Projects 🚀
 
 - [Tetris](https://github.com/ramironunes/tetris): This project aims to implement the Tetris game and test it using artificial intelligence (AI) techniques.
 
 ---
 
-### GitHub Stats ⚡
+### GitHub Stats 📊
 
 <div>
-<a href="https://github.com/ramironunes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramironunes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramironunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ramironunes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramironunes&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramironunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramironunes&theme=radical"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ramironunes&theme=radical&no-frame=true"/>
+  </a>
 </div>
 
 ---
