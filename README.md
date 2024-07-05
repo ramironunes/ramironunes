@@ -7,62 +7,52 @@
 ---
 
 ### ⚡ Technologies
+These are some of the technologies and tools that I work with:
 
-**Backend**
+**Backend:**
 
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Django ORM](https://img.shields.io/badge/django--orm-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/topics/db/)
-[![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23CA4245.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django ORM](https://img.shields.io/badge/Django--ORM-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/topics/db/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23CA4245.svg?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
----
+**Frontend:**
 
-**Frontend**
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Angular CLI](https://img.shields.io/badge/angular--cli-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://cli.angular.io/)
-[![Angular Material](https://img.shields.io/badge/angular--material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Material UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![React Admin](https://img.shields.io/badge/react--admin-%2320A39E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://marmelab.com/react-admin/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+**Database:**
 
----
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**Database**
+**Tools:**
 
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
----
+**Testing Libraries:**
 
-**Tools**
-
-[![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/docker--compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
----
-
-**Testing Libraries**
-
-[![PyTest](https://img.shields.io/badge/pytest-%230A0FFF.svg?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
-[![Jest](https://img.shields.io/badge/jest-%230A0FFF.svg?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
-[![Cypress](https://img.shields.io/badge/cypress-%2300C7B7.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![React Testing Library](https://img.shields.io/badge/react--testing--library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/)
+[![PyTest](https://img.shields.io/badge/PyTest-%230A0FFF.svg?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
+[![Jest](https://img.shields.io/badge/Jest-%230A0FFF.svg?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=flat-square&logo=mocha&logoColor=white)](https://mochajs.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-%2300C7B7.svg?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![React Testing Library](https://img.shields.io/badge/React--Testing--Library-%23E33332.svg?style=flat-square&logo=testing-library&logoColor=white)](https://testing-library.com/)
 
 ---
 
@@ -85,5 +75,5 @@
 ### Contact Me! 📭
 
 <div>
-<a href="https://www.linkedin.com/in/ramironunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/ramironunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
