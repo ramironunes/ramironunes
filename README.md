@@ -66,8 +66,8 @@ These are some of the technologies and tools that I work with:
 
 <div>
   <a href="https://github.com/ramironunes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramironunes&layout=compact&langs_count=7&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramironunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ramironunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramironunes&layout=compact&langs_count=7&theme=radical"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramironunes&theme=radical"/>
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ramironunes&theme=radical&no-frame=true"/>
   </a>
