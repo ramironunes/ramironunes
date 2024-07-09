@@ -36,6 +36,14 @@ These are some of the technologies and tools that I work with:
 [![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
+**Testing Libraries:**
+
+[![PyTest](https://img.shields.io/badge/PyTest-%230A0FFF.svg?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
+[![Jest](https://img.shields.io/badge/Jest-%230A0FFF.svg?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=flat-square&logo=mocha&logoColor=white)](https://mochajs.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-%2300C7B7.svg?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![React Testing Library](https://img.shields.io/badge/React--Testing--Library-%23E33332.svg?style=flat-square&logo=testing-library&logoColor=white)](https://testing-library.com/)
+
 **Tools:**
 
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -45,14 +53,6 @@ These are some of the technologies and tools that I work with:
 [![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-**Testing Libraries:**
-
-[![PyTest](https://img.shields.io/badge/PyTest-%230A0FFF.svg?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
-[![Jest](https://img.shields.io/badge/Jest-%230A0FFF.svg?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=flat-square&logo=mocha&logoColor=white)](https://mochajs.org/)
-[![Cypress](https://img.shields.io/badge/Cypress-%2300C7B7.svg?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![React Testing Library](https://img.shields.io/badge/React--Testing--Library-%23E33332.svg?style=flat-square&logo=testing-library&logoColor=white)](https://testing-library.com/)
 
 ---
 
